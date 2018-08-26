@@ -1,0 +1,14 @@
+{
+  "name": "fatih",
+  "version": "1.0.0",
+  "description": "Hergün gelişen, Has ve Has Türk Botu!",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "node Bot.js"
+  },
+  "author": "Creataxh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
